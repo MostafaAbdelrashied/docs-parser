@@ -13,7 +13,7 @@ def main() -> None:
     output_dir.mkdir(parents=True, exist_ok=True)
     language = parsed_args.lang
     print(f"Processing {input_file}")
-    OCRProcessor(input_file, output_dir,language).process()
+    OCRProcessor(input_file, output_dir, language).process()
     print("Processing complete")
 
 

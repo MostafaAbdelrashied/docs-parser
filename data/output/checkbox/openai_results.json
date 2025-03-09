@@ -1,0 +1,91 @@
+{
+  "pages": [
+    {
+      "page_number": 1,
+      "blocks": [
+        {
+          "location": {
+            "x": 53.0,
+            "y": 32.0,
+            "width": 161.0,
+            "height": 30.0
+          },
+          "summary": "Racial or Ethnic Group",
+          "content_type": "heading"
+        },
+        {
+          "location": {
+            "x": 53.0,
+            "y": 64.0,
+            "width": 596.0,
+            "height": 49.0
+          },
+          "summary": "Options for racial or ethnic identification: American Indian/Alaskan, Asian/Pacific Islander, Black/African American, Hispanic/Latino, White/Caucasian, Other",
+          "content_type": "paragraph"
+        },
+        {
+          "location": {
+            "x": 53.0,
+            "y": 147.0,
+            "width": 51.0,
+            "height": 11.0
+          },
+          "summary": "Gender",
+          "content_type": "heading"
+        },
+        {
+          "location": {
+            "x": 61.0,
+            "y": 174.0,
+            "width": 273.0,
+            "height": 16.0
+          },
+          "summary": "Options for gender identification: Female, Male",
+          "content_type": "paragraph"
+        },
+        {
+          "location": {
+            "x": 49.0,
+            "y": 214.0,
+            "width": 114.0,
+            "height": 30.0
+          },
+          "summary": "Military Service",
+          "content_type": "heading"
+        },
+        {
+          "location": {
+            "x": 61.0,
+            "y": 251.0,
+            "width": 346.0,
+            "height": 48.0
+          },
+          "summary": "Options detailing veteran status: Pre-Vietnam Era, Vietnam Era, Post-Vietnam Era, Disabled Veteran",
+          "content_type": "paragraph"
+        },
+        {
+          "location": {
+            "x": 53.0,
+            "y": 319.0,
+            "width": 261.0,
+            "height": 31.0
+          },
+          "summary": "How did you hear about this position?",
+          "content_type": "heading"
+        },
+        {
+          "location": {
+            "x": 61.0,
+            "y": 356.0,
+            "width": 590.0,
+            "height": 74.0
+          },
+          "summary": "Options detailing the source of position awareness: Newspaper, Company Employee, Professional Publication, Job Fair, Placement Office, Website, Other",
+          "content_type": "paragraph"
+        }
+      ]
+    }
+  ],
+  "document_name": "Document Classification Form",
+  "number_of_pages": 1
+}
